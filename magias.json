@@ -1,0 +1,4601 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "[Abjuracao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Abjuracao.jpg)",
+                "istokenaction": false,
+                "name": "Abjuracao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ACALMAR EMOCOES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ACALMAR%20EMOCOES.jpg)",
+                "istokenaction": false,
+                "name": "ACALMAR EMOCOES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Adivinhacao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Adivinhacao.jpg)",
+                "istokenaction": false,
+                "name": "Adivinhacao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AJUDA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AJUDA.jpg)",
+                "istokenaction": false,
+                "name": "AJUDA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALARME](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALARME.jpg)",
+                "istokenaction": false,
+                "name": "ALARME",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALIADO PLANAR 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALIADO%20PLANAR%2012.jpg)",
+                "istokenaction": false,
+                "name": "ALIADO PLANAR 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALIADO PLANAR 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALIADO%20PLANAR%2022.jpg)",
+                "istokenaction": false,
+                "name": "ALIADO PLANAR 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALJAVA VELOZ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALJAVA%20VELOZ.jpg)",
+                "istokenaction": false,
+                "name": "ALJAVA VELOZ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALTERAR FORMA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALTERAR%20FORMA.jpg)",
+                "istokenaction": false,
+                "name": "ALTERAR FORMA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ALTERAR-SE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ALTERAR-SE.jpg)",
+                "istokenaction": false,
+                "name": "ALTERAR-SE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AMIZADE ANIMAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AMIZADE%20ANIMAL.jpg)",
+                "istokenaction": false,
+                "name": "AMIZADE ANIMAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AMIZADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AMIZADE.jpg)",
+                "istokenaction": false,
+                "name": "AMIZADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AMPLIAR PLANTAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AMPLIAR%20PLANTAS.jpg)",
+                "istokenaction": false,
+                "name": "AMPLIAR PLANTAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANCORA PLANAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANCORA%20PLANAR.jpg)",
+                "istokenaction": false,
+                "name": "ANCORA PLANAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANDAR NA AGUA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANDAR%20NA%20AGUA.jpg)",
+                "istokenaction": false,
+                "name": "ANDAR NA AGUA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANIMAR MORTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANIMAR%20MORTOS.jpg)",
+                "istokenaction": false,
+                "name": "ANIMAR MORTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANIMAR OBJETOS 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANIMAR%20OBJETOS%2012.jpg)",
+                "istokenaction": false,
+                "name": "ANIMAR OBJETOS 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANIMAR OBJETOS 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANIMAR%20OBJETOS%2022.jpg)",
+                "istokenaction": false,
+                "name": "ANIMAR OBJETOS 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANTIPATIASIMPATIA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANTIPATIASIMPATIA%2012.jpg)",
+                "istokenaction": false,
+                "name": "ANTIPATIASIMPATIA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ANTIPATIASIMPATIA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ANTIPATIASIMPATIA%2022.jpg)",
+                "istokenaction": false,
+                "name": "ANTIPATIASIMPATIA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[APRIMORAR HABILIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/APRIMORAR%20HABILIDADE.jpg)",
+                "istokenaction": false,
+                "name": "APRIMORAR HABILIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[APRISIONAMENTO 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/APRISIONAMENTO%2012.jpg)",
+                "istokenaction": false,
+                "name": "APRISIONAMENTO 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[APRISIONAMENTO 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/APRISIONAMENTO%2022.jpg)",
+                "istokenaction": false,
+                "name": "APRISIONAMENTO 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARCA SECRETA DE LEOMUND](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARCA%20SECRETA%20DE%20LEOMUND.jpg)",
+                "istokenaction": false,
+                "name": "ARCA SECRETA DE LEOMUND",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AREA ESCORREGADIA ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AREA%20ESCORREGADIA%20.jpg)",
+                "istokenaction": false,
+                "name": "AREA ESCORREGADIA ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARMA ELEMENTAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARMA%20ELEMENTAL.jpg)",
+                "istokenaction": false,
+                "name": "ARMA ELEMENTAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARMA ESPIRITUAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARMA%20ESPIRITUAL.jpg)",
+                "istokenaction": false,
+                "name": "ARMA ESPIRITUAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARMA MAGICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARMA%20MAGICA.jpg)",
+                "istokenaction": false,
+                "name": "ARMA MAGICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARMADURA ARCANA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARMADURA%20ARCANA.jpg)",
+                "istokenaction": false,
+                "name": "ARMADURA ARCANA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARMADURA DE AGATHYS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARMADURA%20DE%20AGATHYS.jpg)",
+                "istokenaction": false,
+                "name": "ARMADURA DE AGATHYS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ARROMBAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ARROMBAR.jpg)",
+                "istokenaction": false,
+                "name": "ARROMBAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ASSASSINO FANTASMAGORICO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ASSASSINO%20FANTASMAGORICO.jpg)",
+                "istokenaction": false,
+                "name": "ASSASSINO FANTASMAGORICO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ATAQUE CERTEIRO ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ATAQUE%20CERTEIRO%20.jpg)",
+                "istokenaction": false,
+                "name": "ATAQUE CERTEIRO ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ATAQUE VISUAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ATAQUE%20VISUAL.jpg)",
+                "istokenaction": false,
+                "name": "ATAQUE VISUAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AUGURIO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AUGURIO.jpg)",
+                "istokenaction": false,
+                "name": "AUGURIO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AUMENTARREDUZIR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AUMENTARREDUZIR.jpg)",
+                "istokenaction": false,
+                "name": "AUMENTARREDUZIR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AURA DE PUREZA ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AURA%20DE%20PUREZA%20.jpg)",
+                "istokenaction": false,
+                "name": "AURA DE PUREZA ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AURA DE VIDA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AURA%20DE%20VIDA.jpg)",
+                "istokenaction": false,
+                "name": "AURA DE VIDA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AURA DE VITALIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AURA%20DE%20VITALIDADE.jpg)",
+                "istokenaction": false,
+                "name": "AURA DE VITALIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AURA MAGICA DE NYSTUL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AURA%20MAGICA%20DE%20NYSTUL.jpg)",
+                "istokenaction": false,
+                "name": "AURA MAGICA DE NYSTUL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AURA SAGRADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AURA%20SAGRADA.jpg)",
+                "istokenaction": false,
+                "name": "AURA SAGRADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[AUXILIO DIVINO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/AUXILIO%20DIVINO.jpg)",
+                "istokenaction": false,
+                "name": "AUXILIO DIVINO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BANIMENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BANIMENTO.jpg)",
+                "istokenaction": false,
+                "name": "BANIMENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BANQUETE DE HEROIS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BANQUETE%20DE%20HEROIS.jpg)",
+                "istokenaction": false,
+                "name": "BANQUETE DE HEROIS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BARREIRA DE LAMINAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BARREIRA%20DE%20LAMINAS.jpg)",
+                "istokenaction": false,
+                "name": "BARREIRA DE LAMINAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BENCAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BENCAO.jpg)",
+                "istokenaction": false,
+                "name": "BENCAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BOCA ENCANTADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BOCA%20ENCANTADA.jpg)",
+                "istokenaction": false,
+                "name": "BOCA ENCANTADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BOLA DE FOGO CONTROLAVEL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BOLA%20DE%20FOGO%20CONTROLAVEL.jpg)",
+                "istokenaction": false,
+                "name": "BOLA DE FOGO CONTROLAVEL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BOLA DE FOGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BOLA%20DE%20FOGO.jpg)",
+                "istokenaction": false,
+                "name": "BOLA DE FOGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BOM FRUTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BOM%20FRUTO.jpg)",
+                "istokenaction": false,
+                "name": "BOM FRUTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BORDAO MISTICO ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BORDAO%20MISTICO%20.jpg)",
+                "istokenaction": false,
+                "name": "BORDAO MISTICO ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BRACOS DE HADAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BRACOS%20DE%20HADAR.jpg)",
+                "istokenaction": false,
+                "name": "BRACOS DE HADAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[BRUXARIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/BRUXARIA.jpg)",
+                "istokenaction": false,
+                "name": "BRUXARIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CAMINHAR EM ARVORES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CAMINHAR%20EM%20ARVORES.jpg)",
+                "istokenaction": false,
+                "name": "CAMINHAR EM ARVORES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CAMINHAR NO VENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CAMINHAR%20NO%20VENTO.jpg)",
+                "istokenaction": false,
+                "name": "CAMINHAR NO VENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CAMPO ANTIMAGIA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CAMPO%20ANTIMAGIA%2012.jpg)",
+                "istokenaction": false,
+                "name": "CAMPO ANTIMAGIA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CAMPO ANTIMAGIA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CAMPO%20ANTIMAGIA%2022.jpg)",
+                "istokenaction": false,
+                "name": "CAMPO ANTIMAGIA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CAO FIEL DE MORDENKAINEN](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CAO%20FIEL%20DE%20MORDENKAINEN.jpg)",
+                "istokenaction": false,
+                "name": "CAO FIEL DE MORDENKAINEN",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CARNE PARA PEDRA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CARNE%20PARA%20PEDRA.jpg)",
+                "istokenaction": false,
+                "name": "CARNE PARA PEDRA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CATIVAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CATIVAR.jpg)",
+                "istokenaction": false,
+                "name": "CATIVAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CEGUEIRASURDEZ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CEGUEIRASURDEZ.jpg)",
+                "istokenaction": false,
+                "name": "CEGUEIRASURDEZ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CHAMA CONTINUA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CHAMA%20CONTINUA.jpg)",
+                "istokenaction": false,
+                "name": "CHAMA CONTINUA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CHAMA SAGRADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CHAMA%20SAGRADA.jpg)",
+                "istokenaction": false,
+                "name": "CHAMA SAGRADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CHICOTE DE ESPINHOS ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CHICOTE%20DE%20ESPINHOS%20.jpg)",
+                "istokenaction": false,
+                "name": "CHICOTE DE ESPINHOS ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CHUVA DE METEOROS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CHUVA%20DE%20METEOROS.jpg)",
+                "istokenaction": false,
+                "name": "CHUVA DE METEOROS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CIRCULO DA MORTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CIRCULO%20DA%20MORTE.jpg)",
+                "istokenaction": false,
+                "name": "CIRCULO DA MORTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CIRCULO DE PODER](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CIRCULO%20DE%20PODER.jpg)",
+                "istokenaction": false,
+                "name": "CIRCULO DE PODER",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CIRCULO DE TELETRANSPORTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CIRCULO%20DE%20TELETRANSPORTE.jpg)",
+                "istokenaction": false,
+                "name": "CIRCULO DE TELETRANSPORTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CIRCULO MAGICO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CIRCULO%20MAGICO.jpg)",
+                "istokenaction": false,
+                "name": "CIRCULO MAGICO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CLARIVIDENCIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CLARIVIDENCIA.jpg)",
+                "istokenaction": false,
+                "name": "CLARIVIDENCIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CLONE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CLONE.jpg)",
+                "istokenaction": false,
+                "name": "CLONE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COLUNA DE CHAMAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COLUNA%20DE%20CHAMAS.jpg)",
+                "istokenaction": false,
+                "name": "COLUNA DE CHAMAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COMANDO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COMANDO.jpg)",
+                "istokenaction": false,
+                "name": "COMANDO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COMPREENDER IDIOMAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COMPREENDER%20IDIOMAS.jpg)",
+                "istokenaction": false,
+                "name": "COMPREENDER IDIOMAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COMPULSAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COMPULSAO.jpg)",
+                "istokenaction": false,
+                "name": "COMPULSAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COMUNHAO COM A NATUREZA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COMUNHAO%20COM%20A%20NATUREZA.jpg)",
+                "istokenaction": false,
+                "name": "COMUNHAO COM A NATUREZA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COMUNHAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COMUNHAO.jpg)",
+                "istokenaction": false,
+                "name": "COMUNHAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONE DE FRIO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONE%20DE%20FRIO.jpg)",
+                "istokenaction": false,
+                "name": "CONE DE FRIO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONFUSAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONFUSAO.jpg)",
+                "istokenaction": false,
+                "name": "CONFUSAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONHECIMENTO LENDARIO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONHECIMENTO%20LENDARIO.jpg)",
+                "istokenaction": false,
+                "name": "CONHECIMENTO LENDARIO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Conjuracao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Conjuracao.jpg)",
+                "istokenaction": false,
+                "name": "Conjuracao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR ANIMAIS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20ANIMAIS.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR ANIMAIS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR CELESTIAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20CELESTIAL.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR CELESTIAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR ELEMENTAIS MENORES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20ELEMENTAIS%20MENORES.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR ELEMENTAIS MENORES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR ELEMENTAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20ELEMENTAL.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR ELEMENTAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR FADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20FADA.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR FADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR RAJADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20RAJADA.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR RAJADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR SARAIVADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20SARAIVADA.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR SARAIVADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONJURAR SERES DA FLORESTA ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONJURAR%20SERES%20DA%20FLORESTA%20.jpg)",
+                "istokenaction": false,
+                "name": "CONJURAR SERES DA FLORESTA ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONSAGRAR 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONSAGRAR%2012.jpg)",
+                "istokenaction": false,
+                "name": "CONSAGRAR 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONSAGRAR 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONSAGRAR%2022.jpg)",
+                "istokenaction": false,
+                "name": "CONSAGRAR 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONSERTAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONSERTAR.jpg)",
+                "istokenaction": false,
+                "name": "CONSERTAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONSTRICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONSTRICAO.jpg)",
+                "istokenaction": false,
+                "name": "CONSTRICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTATO EXTRAPLANAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTATO%20EXTRAPLANAR.jpg)",
+                "istokenaction": false,
+                "name": "CONTATO EXTRAPLANAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTINGENCIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTINGENCIA.jpg)",
+                "istokenaction": false,
+                "name": "CONTINGENCIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTRAMAGICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTRAMAGICA.jpg)",
+                "istokenaction": false,
+                "name": "CONTRAMAGICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTROLAR AGUA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTROLAR%20AGUA%2012.jpg)",
+                "istokenaction": false,
+                "name": "CONTROLAR AGUA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTROLAR AGUA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTROLAR%20AGUA%2022.jpg)",
+                "istokenaction": false,
+                "name": "CONTROLAR AGUA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONTROLAR O CLIMA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONTROLAR%20O%20CLIMA.jpg)",
+                "istokenaction": false,
+                "name": "CONTROLAR O CLIMA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONVOCAR FAMILIAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONVOCAR%20FAMILIAR.jpg)",
+                "istokenaction": false,
+                "name": "CONVOCAR FAMILIAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONVOCAR MONTARIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONVOCAR%20MONTARIA.jpg)",
+                "istokenaction": false,
+                "name": "CONVOCAR MONTARIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CONVOCAR RELAMPAGOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CONVOCAR%20RELAMPAGOS.jpg)",
+                "istokenaction": false,
+                "name": "CONVOCAR RELAMPAGOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CORDAO DE FLECHAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CORDAO%20DE%20FLECHAS.jpg)",
+                "istokenaction": false,
+                "name": "CORDAO DE FLECHAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[COROA DA LOUCURA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/COROA%20DA%20LOUCURA.jpg)",
+                "istokenaction": false,
+                "name": "COROA DA LOUCURA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CORRENTE DE RELAMPAGOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CORRENTE%20DE%20RELAMPAGOS.jpg)",
+                "istokenaction": false,
+                "name": "CORRENTE DE RELAMPAGOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRESCER ESPINHOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRESCER%20ESPINHOS.jpg)",
+                "istokenaction": false,
+                "name": "CRESCER ESPINHOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIACAO.jpg)",
+                "istokenaction": false,
+                "name": "CRIACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIAR ALIMENTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIAR%20ALIMENTOS.jpg)",
+                "istokenaction": false,
+                "name": "CRIAR ALIMENTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIAR CHAMAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIAR%20CHAMAS.jpg)",
+                "istokenaction": false,
+                "name": "CRIAR CHAMAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIAR MORTOS-VIVOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIAR%20MORTOS-VIVOS.jpg)",
+                "istokenaction": false,
+                "name": "CRIAR MORTOS-VIVOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIAR OU DESTRUIR AGUA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIAR%20OU%20DESTRUIR%20AGUA.jpg)",
+                "istokenaction": false,
+                "name": "CRIAR OU DESTRUIR AGUA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CRIAR PASSAGEM](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CRIAR%20PASSAGEM.jpg)",
+                "istokenaction": false,
+                "name": "CRIAR PASSAGEM",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CUPULA ANTIVIDA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CUPULA%20ANTIVIDA.jpg)",
+                "istokenaction": false,
+                "name": "CUPULA ANTIVIDA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CURA COMPLETA EM MASSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CURA%20COMPLETA%20EM%20MASSA.jpg)",
+                "istokenaction": false,
+                "name": "CURA COMPLETA EM MASSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CURA COMPLETA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CURA%20COMPLETA.jpg)",
+                "istokenaction": false,
+                "name": "CURA COMPLETA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CURAR FERIMENTOS EM MASSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CURAR%20FERIMENTOS%20EM%20MASSA.jpg)",
+                "istokenaction": false,
+                "name": "CURAR FERIMENTOS EM MASSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[CURAR FERIMENTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/CURAR%20FERIMENTOS.jpg)",
+                "istokenaction": false,
+                "name": "CURAR FERIMENTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DANCA IRRESISTIVEL DE OTTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DANCA%20IRRESISTIVEL%20DE%20OTTO.jpg)",
+                "istokenaction": false,
+                "name": "DANCA IRRESISTIVEL DE OTTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DEDO DA MORTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DEDO%20DA%20MORTE.jpg)",
+                "istokenaction": false,
+                "name": "DEDO DA MORTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESEJO 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESEJO%2012.jpg)",
+                "istokenaction": false,
+                "name": "DESEJO 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESEJO 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESEJO%2022.jpg)",
+                "istokenaction": false,
+                "name": "DESEJO 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESINTEGRAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESINTEGRAR.jpg)",
+                "istokenaction": false,
+                "name": "DESINTEGRAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESPEDACAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESPEDACAR.jpg)",
+                "istokenaction": false,
+                "name": "DESPEDACAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESPERTAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESPERTAR.jpg)",
+                "istokenaction": false,
+                "name": "DESPERTAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESPISTAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESPISTAR.jpg)",
+                "istokenaction": false,
+                "name": "DESPISTAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO BANIDORA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20BANIDORA.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO BANIDORA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO CEGANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20CEGANTE.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO CEGANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO COLERICA ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20COLERICA%20.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO COLERICA ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO ESTONTEANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20ESTONTEANTE.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO ESTONTEANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO LANCINANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20LANCINANTE.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO LANCINANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DESTRUICAO TROVEJANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DESTRUICAO%20TROVEJANTE.jpg)",
+                "istokenaction": false,
+                "name": "DESTRUICAO TROVEJANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DETECTAR MAGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DETECTAR%20MAGIA.jpg)",
+                "istokenaction": false,
+                "name": "DETECTAR MAGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DETECTAR O BEM E MAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DETECTAR%20O%20BEM%20E%20MAL.jpg)",
+                "istokenaction": false,
+                "name": "DETECTAR O BEM E MAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DETECTAR PENSAMENTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DETECTAR%20PENSAMENTOS.jpg)",
+                "istokenaction": false,
+                "name": "DETECTAR PENSAMENTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DETECTAR VENENO E DOENCA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DETECTAR%20VENENO%20E%20DOENCA.jpg)",
+                "istokenaction": false,
+                "name": "DETECTAR VENENO E DOENCA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DIFICULTAR DETECCAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DIFICULTAR%20DETECCAO.jpg)",
+                "istokenaction": false,
+                "name": "DIFICULTAR DETECCAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DISCO FLUTUANTE DE TENSER](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DISCO%20FLUTUANTE%20DE%20TENSER.jpg)",
+                "istokenaction": false,
+                "name": "DISCO FLUTUANTE DE TENSER",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DISFARCAR-SE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DISFARCAR-SE.jpg)",
+                "istokenaction": false,
+                "name": "DISFARCAR-SE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DISSIPAR MAGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DISSIPAR%20MAGIA.jpg)",
+                "istokenaction": false,
+                "name": "DISSIPAR MAGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DISSIPAR O BEM E MAL ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DISSIPAR%20O%20BEM%20E%20MAL%20.jpg)",
+                "istokenaction": false,
+                "name": "DISSIPAR O BEM E MAL ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DOENCA PLENA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DOENCA%20PLENA.jpg)",
+                "istokenaction": false,
+                "name": "DOENCA PLENA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DOMINAR BESTA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DOMINAR%20BESTA.jpg)",
+                "istokenaction": false,
+                "name": "DOMINAR BESTA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DOMINAR MONSTRO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DOMINAR%20MONSTRO.jpg)",
+                "istokenaction": false,
+                "name": "DOMINAR MONSTRO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DOMINAR PESSOA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DOMINAR%20PESSOA.jpg)",
+                "istokenaction": false,
+                "name": "DOMINAR PESSOA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DRUIDISMO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DRUIDISMO.jpg)",
+                "istokenaction": false,
+                "name": "DRUIDISMO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[DUELO COMPELIDO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/DUELO%20COMPELIDO.jpg)",
+                "istokenaction": false,
+                "name": "DUELO COMPELIDO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Encantamento](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Encantamento.jpg)",
+                "istokenaction": false,
+                "name": "Encantamento",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENCARNACAO FANTASMAGORICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENCARNACAO%20FANTASMAGORICA.jpg)",
+                "istokenaction": false,
+                "name": "ENCARNACAO FANTASMAGORICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENCONTRAR ARMADILHAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENCONTRAR%20ARMADILHAS.jpg)",
+                "istokenaction": false,
+                "name": "ENCONTRAR ARMADILHAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENCONTRAR O CAMINHO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENCONTRAR%20O%20CAMINHO.jpg)",
+                "istokenaction": false,
+                "name": "ENCONTRAR O CAMINHO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENFEITICAR PESSOA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENFEITICAR%20PESSOA.jpg)",
+                "istokenaction": false,
+                "name": "ENFEITICAR PESSOA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENFRAQUECER INTELECTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENFRAQUECER%20INTELECTO.jpg)",
+                "istokenaction": false,
+                "name": "ENFRAQUECER INTELECTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ENVIAR MENSAGEM](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ENVIAR%20MENSAGEM.jpg)",
+                "istokenaction": false,
+                "name": "ENVIAR MENSAGEM",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESCRITA ILUSORIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESCRITA%20ILUSORIA.jpg)",
+                "istokenaction": false,
+                "name": "ESCRITA ILUSORIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESCUDO ARCANO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESCUDO%20ARCANO.jpg)",
+                "istokenaction": false,
+                "name": "ESCUDO ARCANO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESCUDO DA FE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESCUDO%20DA%20FE.jpg)",
+                "istokenaction": false,
+                "name": "ESCUDO DA FE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESCUDO DE FOGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESCUDO%20DE%20FOGO.jpg)",
+                "istokenaction": false,
+                "name": "ESCUDO DE FOGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESCURIDAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESCURIDAO.jpg)",
+                "istokenaction": false,
+                "name": "ESCURIDAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESFERA CONGELANTE DE OTILUKE ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESFERA%20CONGELANTE%20DE%20OTILUKE%20.jpg)",
+                "istokenaction": false,
+                "name": "ESFERA CONGELANTE DE OTILUKE ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESFERA FLAMEJANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESFERA%20FLAMEJANTE.jpg)",
+                "istokenaction": false,
+                "name": "ESFERA FLAMEJANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESFERA RESILIENTE DE OTILUKE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESFERA%20RESILIENTE%20DE%20OTILUKE.jpg)",
+                "istokenaction": false,
+                "name": "ESFERA RESILIENTE DE OTILUKE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESPADA DE MORDENKAINEN](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESPADA%20DE%20MORDENKAINEN.jpg)",
+                "istokenaction": false,
+                "name": "ESPADA DE MORDENKAINEN",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESPIRITOS GUARDIOES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESPIRITOS%20GUARDIOES.jpg)",
+                "istokenaction": false,
+                "name": "ESPIRITOS GUARDIOES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESPIRRO ACIDO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESPIRRO%20ACIDO.jpg)",
+                "istokenaction": false,
+                "name": "ESPIRRO ACIDO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESQUENTAR METAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESQUENTAR%20METAL.jpg)",
+                "istokenaction": false,
+                "name": "ESQUENTAR METAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ESTABILIZAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ESTABILIZAR.jpg)",
+                "istokenaction": false,
+                "name": "ESTABILIZAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Evocacao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Evocacao.jpg)",
+                "istokenaction": false,
+                "name": "Evocacao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[EXPLOSAO SOLAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/EXPLOSAO%20SOLAR.jpg)",
+                "istokenaction": false,
+                "name": "EXPLOSAO SOLAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FABRICAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FABRICAR.jpg)",
+                "istokenaction": false,
+                "name": "FABRICAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FALAR COM ANIMAIS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FALAR%20COM%20ANIMAIS.jpg)",
+                "istokenaction": false,
+                "name": "FALAR COM ANIMAIS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FALAR COM OS MORTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FALAR%20COM%20OS%20MORTOS.jpg)",
+                "istokenaction": false,
+                "name": "FALAR COM OS MORTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FALAR COM PLANTAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FALAR%20COM%20PLANTAS.jpg)",
+                "istokenaction": false,
+                "name": "FALAR COM PLANTAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FLECHA ACIDA DE MELF](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FLECHA%20ACIDA%20DE%20MELF.jpg)",
+                "istokenaction": false,
+                "name": "FLECHA ACIDA DE MELF",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FLECHA RELAMPEJANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FLECHA%20RELAMPEJANTE.jpg)",
+                "istokenaction": false,
+                "name": "FLECHA RELAMPEJANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FOGO DAS FADAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FOGO%20DAS%20FADAS.jpg)",
+                "istokenaction": false,
+                "name": "FOGO DAS FADAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FOME DE HADAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FOME%20DE%20HADAR.jpg)",
+                "istokenaction": false,
+                "name": "FOME DE HADAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FORCA FANTASMAGORICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FORCA%20FANTASMAGORICA.jpg)",
+                "istokenaction": false,
+                "name": "FORCA FANTASMAGORICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FORJAR MORTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FORJAR%20MORTE.jpg)",
+                "istokenaction": false,
+                "name": "FORJAR MORTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FORMA ETEREA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FORMA%20ETEREA.jpg)",
+                "istokenaction": false,
+                "name": "FORMA ETEREA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FORMA GASOSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FORMA%20GASOSA.jpg)",
+                "istokenaction": false,
+                "name": "FORMA GASOSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[FORMAS ANIMAIS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/FORMAS%20ANIMAIS.jpg)",
+                "istokenaction": false,
+                "name": "FORMAS ANIMAIS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GLIFO DE VIGILANCIA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GLIFO%20DE%20VIGILANCIA%2012.jpg)",
+                "istokenaction": false,
+                "name": "GLIFO DE VIGILANCIA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GLIFO DE VIGILANCIA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GLIFO%20DE%20VIGILANCIA%2022.jpg)",
+                "istokenaction": false,
+                "name": "GLIFO DE VIGILANCIA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GLOBO DE INVULNERABILIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GLOBO%20DE%20INVULNERABILIDADE.jpg)",
+                "istokenaction": false,
+                "name": "GLOBO DE INVULNERABILIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GLOBOS DE LUZ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GLOBOS%20DE%20LUZ.jpg)",
+                "istokenaction": false,
+                "name": "GLOBOS DE LUZ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GOLPE CONSTRITOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GOLPE%20CONSTRITOR.jpg)",
+                "istokenaction": false,
+                "name": "GOLPE CONSTRITOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[GUARDIAO DA FE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/GUARDIAO%20DA%20FE.jpg)",
+                "istokenaction": false,
+                "name": "GUARDIAO DA FE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[HEROISMO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/HEROISMO.jpg)",
+                "istokenaction": false,
+                "name": "HEROISMO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IDENTIFICACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IDENTIFICACAO.jpg)",
+                "istokenaction": false,
+                "name": "IDENTIFICACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IDIOMAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IDIOMAS.jpg)",
+                "istokenaction": false,
+                "name": "IDIOMAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ILUSAO MENOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ILUSAO%20MENOR.jpg)",
+                "istokenaction": false,
+                "name": "ILUSAO MENOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ILUSAO PROGRAMADA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ILUSAO%20PROGRAMADA.jpg)",
+                "istokenaction": false,
+                "name": "ILUSAO PROGRAMADA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Ilusao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Ilusao.jpg)",
+                "istokenaction": false,
+                "name": "Ilusao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IMAGEM MAIOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IMAGEM%20MAIOR.jpg)",
+                "istokenaction": false,
+                "name": "IMAGEM MAIOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IMAGEM SILENCIOSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IMAGEM%20SILENCIOSA.jpg)",
+                "istokenaction": false,
+                "name": "IMAGEM SILENCIOSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IMOBILIZAR MONSTRO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IMOBILIZAR%20MONSTRO.jpg)",
+                "istokenaction": false,
+                "name": "IMOBILIZAR MONSTRO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[IMOBILIZAR PESSOA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/IMOBILIZAR%20PESSOA.jpg)",
+                "istokenaction": false,
+                "name": "IMOBILIZAR PESSOA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INFLIGIR FERIMENTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INFLIGIR%20FERIMENTOS.jpg)",
+                "istokenaction": false,
+                "name": "INFLIGIR FERIMENTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INSETO GIGANTE ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INSETO%20GIGANTE%20.jpg)",
+                "istokenaction": false,
+                "name": "INSETO GIGANTE ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INVERTER A GRAVIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INVERTER%20A%20GRAVIDADE.jpg)",
+                "istokenaction": false,
+                "name": "INVERTER A GRAVIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INVISIBILIDADE MAIOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INVISIBILIDADE%20MAIOR.jpg)",
+                "istokenaction": false,
+                "name": "INVISIBILIDADE MAIOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INVISIBILIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INVISIBILIDADE.jpg)",
+                "istokenaction": false,
+                "name": "INVISIBILIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[INVOCACAO INSTANTANEA DE DRAWMIJ ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/INVOCACAO%20INSTANTANEA%20DE%20DRAWMIJ%20.jpg)",
+                "istokenaction": false,
+                "name": "INVOCACAO INSTANTANEA DE DRAWMIJ ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ISOLAMENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ISOLAMENTO.jpg)",
+                "istokenaction": false,
+                "name": "ISOLAMENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LABIRINTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LABIRINTO.jpg)",
+                "istokenaction": false,
+                "name": "LABIRINTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LAMINA FLAMEJANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LAMINA%20FLAMEJANTE.jpg)",
+                "istokenaction": false,
+                "name": "LAMINA FLAMEJANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LENTIDAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LENTIDAO.jpg)",
+                "istokenaction": false,
+                "name": "LENTIDAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LEQUE CROMATICO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LEQUE%20CROMATICO.jpg)",
+                "istokenaction": false,
+                "name": "LEQUE CROMATICO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LEVITACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LEVITACAO.jpg)",
+                "istokenaction": false,
+                "name": "LEVITACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LIGACAO TELEPATICA DE RARY](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LIGACAO%20TELEPATICA%20DE%20RARY.jpg)",
+                "istokenaction": false,
+                "name": "LIGACAO TELEPATICA DE RARY",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LIMPAR A MENTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LIMPAR%20A%20MENTE.jpg)",
+                "istokenaction": false,
+                "name": "LIMPAR A MENTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LOCALIZAR ANIMAIS OU PLANTAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LOCALIZAR%20ANIMAIS%20OU%20PLANTAS.jpg)",
+                "istokenaction": false,
+                "name": "LOCALIZAR ANIMAIS OU PLANTAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LOCALIZAR CRIATURA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LOCALIZAR%20CRIATURA.jpg)",
+                "istokenaction": false,
+                "name": "LOCALIZAR CRIATURA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LOCALIZAR OBJETO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LOCALIZAR%20OBJETO.jpg)",
+                "istokenaction": false,
+                "name": "LOCALIZAR OBJETO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LOQUACIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LOQUACIDADE.jpg)",
+                "istokenaction": false,
+                "name": "LOQUACIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LUFADA DE VENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LUFADA%20DE%20VENTO.jpg)",
+                "istokenaction": false,
+                "name": "LUFADA DE VENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LUZ DO DIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LUZ%20DO%20DIA.jpg)",
+                "istokenaction": false,
+                "name": "LUZ DO DIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[LUZ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/LUZ.jpg)",
+                "istokenaction": false,
+                "name": "LUZ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MALOGRO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MALOGRO.jpg)",
+                "istokenaction": false,
+                "name": "MALOGRO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MANSAO MAGNIFICA DE MORDENKAINEN ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MANSAO%20MAGNIFICA%20DE%20MORDENKAINEN%20.jpg)",
+                "istokenaction": false,
+                "name": "MANSAO MAGNIFICA DE MORDENKAINEN ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MANTO DO CRUZADO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MANTO%20DO%20CRUZADO.jpg)",
+                "istokenaction": false,
+                "name": "MANTO DO CRUZADO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MAO DE BIGBY](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MAO%20DE%20BIGBY.jpg)",
+                "istokenaction": false,
+                "name": "MAO DE BIGBY",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MAOS FLAMEJANTES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MAOS%20FLAMEJANTES.jpg)",
+                "istokenaction": false,
+                "name": "MAOS FLAMEJANTES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MAOS MAGICAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MAOS%20MAGICAS.jpg)",
+                "istokenaction": false,
+                "name": "MAOS MAGICAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MARCA DA PUNICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MARCA%20DA%20PUNICAO.jpg)",
+                "istokenaction": false,
+                "name": "MARCA DA PUNICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MARCA DO CACADOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MARCA%20DO%20CACADOR.jpg)",
+                "istokenaction": false,
+                "name": "MARCA DO CACADOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MEDO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MEDO.jpg)",
+                "istokenaction": false,
+                "name": "MEDO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MENSAGEIRO ANIMAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MENSAGEIRO%20ANIMAL.jpg)",
+                "istokenaction": false,
+                "name": "MENSAGEIRO ANIMAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MENSAGEM](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MENSAGEM.jpg)",
+                "istokenaction": false,
+                "name": "MENSAGEM",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MESCLAR-SE AS ROCHAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MESCLAR-SE%20AS%20ROCHAS.jpg)",
+                "istokenaction": false,
+                "name": "MESCLAR-SE AS ROCHAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[METAMORFOSE VERDADEIRA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/METAMORFOSE%20VERDADEIRA%2012.jpg)",
+                "istokenaction": false,
+                "name": "METAMORFOSE VERDADEIRA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[METAMORFOSE VERDADEIRA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/METAMORFOSE%20VERDADEIRA%2022.jpg)",
+                "istokenaction": false,
+                "name": "METAMORFOSE VERDADEIRA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[METAMORFOSE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/METAMORFOSE.jpg)",
+                "istokenaction": false,
+                "name": "METAMORFOSE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MIRAGEM](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MIRAGEM.jpg)",
+                "istokenaction": false,
+                "name": "MIRAGEM",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MISSAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MISSAO.jpg)",
+                "istokenaction": false,
+                "name": "MISSAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MISSEIS MAGICOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MISSEIS%20MAGICOS.jpg)",
+                "istokenaction": false,
+                "name": "MISSEIS MAGICOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MODIFICAR MEMORIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MODIFICAR%20MEMORIA.jpg)",
+                "istokenaction": false,
+                "name": "MODIFICAR MEMORIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MOLDAR ROCHAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MOLDAR%20ROCHAS.jpg)",
+                "istokenaction": false,
+                "name": "MOLDAR ROCHAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MONTARIA FANTASMAGORICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MONTARIA%20FANTASMAGORICA.jpg)",
+                "istokenaction": false,
+                "name": "MONTARIA FANTASMAGORICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MOVER TERRA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MOVER%20TERRA.jpg)",
+                "istokenaction": false,
+                "name": "MOVER TERRA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MOVIMENTACAO LIVRE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MOVIMENTACAO%20LIVRE.jpg)",
+                "istokenaction": false,
+                "name": "MOVIMENTACAO LIVRE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE ENERGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20ENERGIA.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE ENERGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE ESPINHOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20ESPINHOS.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE ESPINHOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE FOGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20FOGO.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE FOGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE GELO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20GELO.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE GELO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE PEDRA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20PEDRA.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE PEDRA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA DE VENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20DE%20VENTO.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA DE VENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA PRISMATICA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20PRISMATICA%2012.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA PRISMATICA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[MURALHA PRISMATICA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/MURALHA%20PRISMATICA%2022.jpg)",
+                "istokenaction": false,
+                "name": "MURALHA PRISMATICA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Necromancia](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Necromancia.jpg)",
+                "istokenaction": false,
+                "name": "Necromancia",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NEVASCA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NEVASCA.jpg)",
+                "istokenaction": false,
+                "name": "NEVASCA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NEVOA FETIDA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NEVOA%20FETIDA.jpg)",
+                "istokenaction": false,
+                "name": "NEVOA FETIDA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NEVOA MORTAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NEVOA%20MORTAL.jpg)",
+                "istokenaction": false,
+                "name": "NEVOA MORTAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NEVOA OBSCURECENTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NEVOA%20OBSCURECENTE.jpg)",
+                "istokenaction": false,
+                "name": "NEVOA OBSCURECENTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NUBLAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NUBLAR.jpg)",
+                "istokenaction": false,
+                "name": "NUBLAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NUVEM DE ADAGAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NUVEM%20DE%20ADAGAS.jpg)",
+                "istokenaction": false,
+                "name": "NUVEM DE ADAGAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[NUVEM INCENDIARIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/NUVEM%20INCENDIARIA.jpg)",
+                "istokenaction": false,
+                "name": "NUVEM INCENDIARIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[OLHO ARCANO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/OLHO%20ARCANO.jpg)",
+                "istokenaction": false,
+                "name": "OLHO ARCANO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ONDA DESTRUTIVA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ONDA%20DESTRUTIVA.jpg)",
+                "istokenaction": false,
+                "name": "ONDA DESTRUTIVA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ONDA TROVEJANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ONDA%20TROVEJANTE.jpg)",
+                "istokenaction": false,
+                "name": "ONDA TROVEJANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ORACAO CURATIVA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ORACAO%20CURATIVA.jpg)",
+                "istokenaction": false,
+                "name": "ORACAO CURATIVA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ORBE CROMATICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ORBE%20CROMATICA.jpg)",
+                "istokenaction": false,
+                "name": "ORBE CROMATICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ORIENTACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ORIENTACAO.jpg)",
+                "istokenaction": false,
+                "name": "ORIENTACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PADRAO HIPNOTICO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PADRAO%20HIPNOTICO.jpg)",
+                "istokenaction": false,
+                "name": "PADRAO HIPNOTICO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA CURATIVA ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20CURATIVA%20.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA CURATIVA ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA CURATIVA EM MASSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20CURATIVA%20EM%20MASSA.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA CURATIVA EM MASSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA DE PODER ATORDOAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20DE%20PODER%20ATORDOAR.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA DE PODER ATORDOAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA DE PODER CURAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20DE%20PODER%20CURAR.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA DE PODER CURAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA DE PODER MATAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20DE%20PODER%20MATAR.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA DE PODER MATAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA DE RECORDACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20DE%20RECORDACAO.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA DE RECORDACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PALAVRA DIVINA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PALAVRA%20DIVINA.jpg)",
+                "istokenaction": false,
+                "name": "PALAVRA DIVINA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PARAR O TEMPO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PARAR%20O%20TEMPO.jpg)",
+                "istokenaction": false,
+                "name": "PARAR O TEMPO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PASSO NEBULOSO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PASSO%20NEBULOSO.jpg)",
+                "istokenaction": false,
+                "name": "PASSO NEBULOSO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PASSOS LONGOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PASSOS%20LONGOS.jpg)",
+                "istokenaction": false,
+                "name": "PASSOS LONGOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PASSOS SEM PEGADAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PASSOS%20SEM%20PEGADAS.jpg)",
+                "istokenaction": false,
+                "name": "PASSOS SEM PEGADAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PATAS DE ARANHA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PATAS%20DE%20ARANHA.jpg)",
+                "istokenaction": false,
+                "name": "PATAS DE ARANHA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PELE DE ARVORE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PELE%20DE%20ARVORE.jpg)",
+                "istokenaction": false,
+                "name": "PELE DE ARVORE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PELE DE PEDRA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PELE%20DE%20PEDRA.jpg)",
+                "istokenaction": false,
+                "name": "PELE DE PEDRA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PEQUENA CABANA DE LEOMUND](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PEQUENA%20CABANA%20DE%20LEOMUND.jpg)",
+                "istokenaction": false,
+                "name": "PEQUENA CABANA DE LEOMUND",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PERDICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PERDICAO.jpg)",
+                "istokenaction": false,
+                "name": "PERDICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PISCAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PISCAR.jpg)",
+                "istokenaction": false,
+                "name": "PISCAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PORTA DIMENSIONAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PORTA%20DIMENSIONAL.jpg)",
+                "istokenaction": false,
+                "name": "PORTA DIMENSIONAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PORTAL ARCANO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PORTAL%20ARCANO.jpg)",
+                "istokenaction": false,
+                "name": "PORTAL ARCANO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PORTAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PORTAL.jpg)",
+                "istokenaction": false,
+                "name": "PORTAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PRAGA DE INSETOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PRAGA%20DE%20INSETOS.jpg)",
+                "istokenaction": false,
+                "name": "PRAGA DE INSETOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PRAGA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PRAGA.jpg)",
+                "istokenaction": false,
+                "name": "PRAGA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PRESTIDIGITACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PRESTIDIGITACAO.jpg)",
+                "istokenaction": false,
+                "name": "PRESTIDIGITACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PRISAO DE ENERGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PRISAO%20DE%20ENERGIA.jpg)",
+                "istokenaction": false,
+                "name": "PRISAO DE ENERGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROIBICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROIBICAO.jpg)",
+                "istokenaction": false,
+                "name": "PROIBICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROJECAO ASTRAL 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROJECAO%20ASTRAL%2012.jpg)",
+                "istokenaction": false,
+                "name": "PROJECAO ASTRAL 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROJECAO ASTRAL 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROJECAO%20ASTRAL%2022.jpg)",
+                "istokenaction": false,
+                "name": "PROJECAO ASTRAL 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROJETAR IMAGEM](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROJETAR%20IMAGEM.jpg)",
+                "istokenaction": false,
+                "name": "PROJETAR IMAGEM",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTECAO CONTRA A MORTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTECAO%20CONTRA%20A%20MORTE.jpg)",
+                "istokenaction": false,
+                "name": "PROTECAO CONTRA A MORTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTECAO CONTRA ENERGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTECAO%20CONTRA%20ENERGIA.jpg)",
+                "istokenaction": false,
+                "name": "PROTECAO CONTRA ENERGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTECAO CONTRA LAMINAS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTECAO%20CONTRA%20LAMINAS.jpg)",
+                "istokenaction": false,
+                "name": "PROTECAO CONTRA LAMINAS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTECAO CONTRA O BEM E MAL   ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTECAO%20CONTRA%20O%20BEM%20E%20MAL%20%20%20.jpg)",
+                "istokenaction": false,
+                "name": "PROTECAO CONTRA O BEM E MAL   ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTECAO CONTRA VENENO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTECAO%20CONTRA%20VENENO.jpg)",
+                "istokenaction": false,
+                "name": "PROTECAO CONTRA VENENO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTEGER FORTALEZA 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTEGER%20FORTALEZA%2012.jpg)",
+                "istokenaction": false,
+                "name": "PROTEGER FORTALEZA 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PROTEGER FORTALEZA 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PROTEGER%20FORTALEZA%2022.jpg)",
+                "istokenaction": false,
+                "name": "PROTEGER FORTALEZA 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[PURIFICAR ALIMENTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/PURIFICAR%20ALIMENTOS.jpg)",
+                "istokenaction": false,
+                "name": "PURIFICAR ALIMENTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[QUEDA SUAVE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/QUEDA%20SUAVE.jpg)",
+                "istokenaction": false,
+                "name": "QUEDA SUAVE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO ADOECENTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20ADOECENTE.jpg)",
+                "istokenaction": false,
+                "name": "RAIO ADOECENTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO ARDENTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20ARDENTE.jpg)",
+                "istokenaction": false,
+                "name": "RAIO ARDENTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO DE BRUXA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20DE%20BRUXA.jpg)",
+                "istokenaction": false,
+                "name": "RAIO DE BRUXA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO DE FOGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20DE%20FOGO.jpg)",
+                "istokenaction": false,
+                "name": "RAIO DE FOGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO DE GELO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20DE%20GELO.jpg)",
+                "istokenaction": false,
+                "name": "RAIO DE GELO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO DO ENFRAQUECIMENTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20DO%20ENFRAQUECIMENTO.jpg)",
+                "istokenaction": false,
+                "name": "RAIO DO ENFRAQUECIMENTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO GUIADOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20GUIADOR.jpg)",
+                "istokenaction": false,
+                "name": "RAIO GUIADOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO LUNAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20LUNAR.jpg)",
+                "istokenaction": false,
+                "name": "RAIO LUNAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAIO SOLAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAIO%20SOLAR.jpg)",
+                "istokenaction": false,
+                "name": "RAIO SOLAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAJADA DE VENENO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAJADA%20DE%20VENENO.jpg)",
+                "istokenaction": false,
+                "name": "RAJADA DE VENENO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAJADA MISTICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAJADA%20MISTICA.jpg)",
+                "istokenaction": false,
+                "name": "RAJADA MISTICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RAJADA PRISMATICA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RAJADA%20PRISMATICA.jpg)",
+                "istokenaction": false,
+                "name": "RAJADA PRISMATICA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RECIPIENTE ARCANO 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RECIPIENTE%20ARCANO%2012.jpg)",
+                "istokenaction": false,
+                "name": "RECIPIENTE ARCANO 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RECIPIENTE ARCANO 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RECIPIENTE%20ARCANO%2022.jpg)",
+                "istokenaction": false,
+                "name": "RECIPIENTE ARCANO 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RECUO ACELERADO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RECUO%20ACELERADO.jpg)",
+                "istokenaction": false,
+                "name": "RECUO ACELERADO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REENCARNACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REENCARNACAO.jpg)",
+                "istokenaction": false,
+                "name": "REENCARNACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REFLEXOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REFLEXOS.jpg)",
+                "istokenaction": false,
+                "name": "REFLEXOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REGENERACAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REGENERACAO.jpg)",
+                "istokenaction": false,
+                "name": "REGENERACAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RELAMPAGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RELAMPAGO.jpg)",
+                "istokenaction": false,
+                "name": "RELAMPAGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REMOVER MALDICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REMOVER%20MALDICAO.jpg)",
+                "istokenaction": false,
+                "name": "REMOVER MALDICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REPOUSO TRANQUILO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REPOUSO%20TRANQUILO.jpg)",
+                "istokenaction": false,
+                "name": "REPOUSO TRANQUILO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REPREENSAO INFERNAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REPREENSAO%20INFERNAL.jpg)",
+                "istokenaction": false,
+                "name": "REPREENSAO INFERNAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESISTENCIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESISTENCIA.jpg)",
+                "istokenaction": false,
+                "name": "RESISTENCIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESPIRAR NA AGUA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESPIRAR%20NA%20AGUA.jpg)",
+                "istokenaction": false,
+                "name": "RESPIRAR NA AGUA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESSURREICAO VERDADEIRA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESSURREICAO%20VERDADEIRA.jpg)",
+                "istokenaction": false,
+                "name": "RESSURREICAO VERDADEIRA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESSURREICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESSURREICAO.jpg)",
+                "istokenaction": false,
+                "name": "RESSURREICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESTAURACAO MAIOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESTAURACAO%20MAIOR.jpg)",
+                "istokenaction": false,
+                "name": "RESTAURACAO MAIOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RESTAURACAO MENOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RESTAURACAO%20MENOR.jpg)",
+                "istokenaction": false,
+                "name": "RESTAURACAO MENOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REVIVER OS MORTOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REVIVER%20OS%20MORTOS.jpg)",
+                "istokenaction": false,
+                "name": "REVIVER OS MORTOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[REVIVIFICAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/REVIVIFICAR.jpg)",
+                "istokenaction": false,
+                "name": "REVIVIFICAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[RISO HISTERICO DE TASHA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/RISO%20HISTERICO%20DE%20TASHA.jpg)",
+                "istokenaction": false,
+                "name": "RISO HISTERICO DE TASHA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ROGAR MALDICAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ROGAR%20MALDICAO.jpg)",
+                "istokenaction": false,
+                "name": "ROGAR MALDICAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SALTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SALTO.jpg)",
+                "istokenaction": false,
+                "name": "SALTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SANTUARIO PARTICULAR DE MORDENKAINEN](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SANTUARIO%20PARTICULAR%20DE%20MORDENKAINEN.jpg)",
+                "istokenaction": false,
+                "name": "SANTUARIO PARTICULAR DE MORDENKAINEN",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SANTUARIO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SANTUARIO.jpg)",
+                "istokenaction": false,
+                "name": "SANTUARIO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SARAIVADA DE ESPINHOS](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SARAIVADA%20DE%20ESPINHOS.jpg)",
+                "istokenaction": false,
+                "name": "SARAIVADA DE ESPINHOS",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SEMIPLANO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SEMIPLANO.jpg)",
+                "istokenaction": false,
+                "name": "SEMIPLANO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SENTIDO BESTIAL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SENTIDO%20BESTIAL.jpg)",
+                "istokenaction": false,
+                "name": "SENTIDO BESTIAL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SERVO INVISIVEL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SERVO%20INVISIVEL.jpg)",
+                "istokenaction": false,
+                "name": "SERVO INVISIVEL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SEXTO SENTIDO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SEXTO%20SENTIDO.jpg)",
+                "istokenaction": false,
+                "name": "SEXTO SENTIDO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SILENCIO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SILENCIO.jpg)",
+                "istokenaction": false,
+                "name": "SILENCIO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SIMBOLO 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SIMBOLO%2012.jpg)",
+                "istokenaction": false,
+                "name": "SIMBOLO 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SIMBOLO 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SIMBOLO%2022.jpg)",
+                "istokenaction": false,
+                "name": "SIMBOLO 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SIMILARIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SIMILARIDADE.jpg)",
+                "istokenaction": false,
+                "name": "SIMILARIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SIMULACRO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SIMULACRO.jpg)",
+                "istokenaction": false,
+                "name": "SIMULACRO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SINAL DE ESPERANCA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SINAL%20DE%20ESPERANCA.jpg)",
+                "istokenaction": false,
+                "name": "SINAL DE ESPERANCA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SONHO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SONHO.jpg)",
+                "istokenaction": false,
+                "name": "SONHO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SONO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SONO.jpg)",
+                "istokenaction": false,
+                "name": "SONO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SUGESTAO EM MASSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SUGESTAO%20EM%20MASSA.jpg)",
+                "istokenaction": false,
+                "name": "SUGESTAO EM MASSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SUGESTAO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SUGESTAO.jpg)",
+                "istokenaction": false,
+                "name": "SUGESTAO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[SUSSURROS DISSONANTES](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/SUSSURROS%20DISSONANTES.jpg)",
+                "istokenaction": false,
+                "name": "SUSSURROS DISSONANTES",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TAUMATURGIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TAUMATURGIA.jpg)",
+                "istokenaction": false,
+                "name": "TAUMATURGIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TEIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TEIA.jpg)",
+                "istokenaction": false,
+                "name": "TEIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TELECINESIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TELECINESIA.jpg)",
+                "istokenaction": false,
+                "name": "TELECINESIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TELEPATIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TELEPATIA.jpg)",
+                "istokenaction": false,
+                "name": "TELEPATIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TELETRANSPORTE 12](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TELETRANSPORTE%2012.jpg)",
+                "istokenaction": false,
+                "name": "TELETRANSPORTE 12",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TELETRANSPORTE 22](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TELETRANSPORTE%2022.jpg)",
+                "istokenaction": false,
+                "name": "TELETRANSPORTE 22",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TELETRANSPORTE POR ARVORES ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TELETRANSPORTE%20POR%20ARVORES%20.jpg)",
+                "istokenaction": false,
+                "name": "TELETRANSPORTE POR ARVORES ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TEMPESTADE DE FOGO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TEMPESTADE%20DE%20FOGO.jpg)",
+                "istokenaction": false,
+                "name": "TEMPESTADE DE FOGO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TEMPESTADE DE GELO ](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TEMPESTADE%20DE%20GELO%20.jpg)",
+                "istokenaction": false,
+                "name": "TEMPESTADE DE GELO ",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TENTACULOS NEGROS DE EVARD](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TENTACULOS%20NEGROS%20DE%20EVARD.jpg)",
+                "istokenaction": false,
+                "name": "TENTACULOS NEGROS DE EVARD",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TERREMOTO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TERREMOTO.jpg)",
+                "istokenaction": false,
+                "name": "TERREMOTO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TERRENO ALUCINOGENO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TERRENO%20ALUCINOGENO.jpg)",
+                "istokenaction": false,
+                "name": "TERRENO ALUCINOGENO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TOQUE ARREPIANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TOQUE%20ARREPIANTE.jpg)",
+                "istokenaction": false,
+                "name": "TOQUE ARREPIANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TOQUE CHOCANTE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TOQUE%20CHOCANTE.jpg)",
+                "istokenaction": false,
+                "name": "TOQUE CHOCANTE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TOQUE VAMPIRICO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TOQUE%20VAMPIRICO.jpg)",
+                "istokenaction": false,
+                "name": "TOQUE VAMPIRICO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TRANCA ARCANA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TRANCA%20ARCANA.jpg)",
+                "istokenaction": false,
+                "name": "TRANCA ARCANA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[Transmutacao](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/Transmutacao.jpg)",
+                "istokenaction": false,
+                "name": "Transmutacao",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TRUQUE DE CORDA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TRUQUE%20DE%20CORDA.jpg)",
+                "istokenaction": false,
+                "name": "TRUQUE DE CORDA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[TSUNAMI](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/TSUNAMI.jpg)",
+                "istokenaction": false,
+                "name": "TSUNAMI",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VELOCIDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VELOCIDADE.jpg)",
+                "istokenaction": false,
+                "name": "VELOCIDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VER O INVISIVEL](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VER%20O%20INVISIVEL.jpg)",
+                "istokenaction": false,
+                "name": "VER O INVISIVEL",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VIAGEM PLANAR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VIAGEM%20PLANAR.jpg)",
+                "istokenaction": false,
+                "name": "VIAGEM PLANAR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VIDENCIA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VIDENCIA.jpg)",
+                "istokenaction": false,
+                "name": "VIDENCIA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VINCULO PROTETOR](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VINCULO%20PROTETOR.jpg)",
+                "istokenaction": false,
+                "name": "VINCULO PROTETOR",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VINHA ESMAGADORA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VINHA%20ESMAGADORA.jpg)",
+                "istokenaction": false,
+                "name": "VINHA ESMAGADORA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VISAO DA VERDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VISAO%20DA%20VERDADE.jpg)",
+                "istokenaction": false,
+                "name": "VISAO DA VERDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VISAO NO ESCURO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VISAO%20NO%20ESCURO.jpg)",
+                "istokenaction": false,
+                "name": "VISAO NO ESCURO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VITALIDADE FALSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VITALIDADE%20FALSA.jpg)",
+                "istokenaction": false,
+                "name": "VITALIDADE FALSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[VOO](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/VOO.jpg)",
+                "istokenaction": false,
+                "name": "VOO",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ZOMBARIA VICIOSA](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ZOMBARIA%20VICIOSA.jpg)",
+                "istokenaction": false,
+                "name": "ZOMBARIA VICIOSA",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "[ZONA DA VERDADE](https://raw.githubusercontent.com/JoseitoOliveira/cartasdnd/master/cartas/ZONA%20DA%20VERDADE.jpg)",
+                "istokenaction": false,
+                "name": "ZONA DA VERDADE",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        }
+    ]
+}
